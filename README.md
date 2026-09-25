@@ -3,11 +3,15 @@ T120B165 Saityno taikomųjų programų projektavimas Projektas „Forumas“ Git
 
 2.	Sistemos paskirtis
 Projekto tikslas – sukurti forumo tipo internetinę platformą, skirtą naudotojams bendrauti, dalintis informacija, kurti diskusijas bei keistis nuomonėmis įvairiomis temomis.
+
 Veikimo principas – kuriamą platformą sudaro dvi pagrindinės dalys: internetinė aplikacija, kuria naudosis registruoti ir neregistruoti naudotojai bei administratorius, ir aplikacijų programavimo sąsaja (angl. Application Programming Interface, API), užtikrinanti duomenų apsikeitimą tarp aplikacijos ir serverio.
+
 Neregistruotas naudotojas galės peržiūrėti viešai prieinamas forumo diskusijas ir kitą platformoje skelbiamą informaciją. Norėdamas aktyviai dalyvauti diskusijose, naudotojas turės užsiregistruoti ir prisijungti prie sistemos.
+
 Registruoti naudotojai galės kurti naujas diskusijų temas, rašyti komentarus, atsakyti į kitų naudotojų pranešimus, redaguoti arba šalinti savo sukurtą turinį bei reaguoti į kitų naudotojų pranešimus. Naudotojai taip pat galės peržiūrėti kitų forumo dalyvių informaciją ir sekti vykstančias diskusijas.
 Administratorius prižiūrės forumo veiklą, valdys naudotojų paskyras bei užtikrins, kad platformoje skelbiamas turinys atitiktų nustatytas taisykles. Administratorius galės šalinti netinkamą turinį, valdyti naudotojų paskyras bei atlikti kitus sistemos administravimo veiksmus.
-3.	Funkciniai reikalavimai
+
+4.	Funkciniai reikalavimai
 
 Neregistruotas sistemos naudotojas galės:
   1.	Peržiūrėti platformos reprezentacinį puslapį;
